@@ -1,0 +1,11 @@
+{
+  "name": "naver-etf-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node scripts/preview.mjs"
+  }
+}
+
